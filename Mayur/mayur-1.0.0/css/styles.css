@@ -3434,7 +3434,7 @@ img.u-pull-left {
     padding-top : calc(6 * var(--space));
 }
 
-.about-expertise .skills-list {
+.about-expertise .  {
     list-style  : none;
     margin-top  : var(--vspace-1);
     margin-left : 0;
@@ -3446,7 +3446,7 @@ img.u-pull-left {
 }
 
 .about-expertise .skills-list li:not(:last-child)::after {
-    content : ", ";
+    content : " | ";
 }
 
 /* --------------------------------------------------------------------
