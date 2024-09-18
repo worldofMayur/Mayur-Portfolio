@@ -3,15 +3,15 @@
 📂 Mayur-Portfolio
 Welcome to my portfolio site, built using a modern template from ThemeWagon. This site showcases my skills and projects as a web developer with smooth animations and a responsive design.
 
-📑 Table of Contents
-👨‍💻 About
-🛠️ Technologies
-✨ Features
-📥 Installation
-🚀 Usage
-🤝 Contributing
-📜 License
-📧 Contact
+📑 Table of Contents <br />
+👨‍💻 About <br />
+🛠️ Technologies <br />
+✨ Features <br />
+📥 Installation <br />
+🚀 Usage <br />
+🤝 Contributing <br />
+📜 License <br />
+📧 Contact <br />
 
 👨‍💻 About :
 This portfolio is a static website showcasing my projects, work experience, and contact information. The design is based on a sleek and modern template from ThemeWagon, featuring cool animations to enhance user experience. The site is fully responsive, ensuring that it looks great on any device.
